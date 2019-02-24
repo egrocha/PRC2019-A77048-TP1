@@ -1,0 +1,3 @@
+Criação dum modelo/ontologia
+1 - Domínio;
+2 - Determinar que tipos de coisas temos
